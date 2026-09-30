@@ -11,9 +11,9 @@ Python · SQL · Machine Learning · Data Analytics
 
 ---
 
-I study Data Science at Alexandria University, with expected graduation in **2027**. I enjoy turning raw data into useful insights and building applications that make analytical results easier to explore.
+I study Data Science at Alexandria University, with expected graduation in **2027**. My objective is turning raw data into useful insights and building applications that make analytical results easier to explore.
 
-My projects span football analytics, consumer-complaint intelligence, and graph-based scheduling. I am also developing **MedSeaWatch**, a marine forecasting research project. My focus is on connecting data preparation, model evaluation, and clear communication in one workflow.
+My projects span consumer-complaint intelligence and some academic projects. I am also developing **MedSeaWatch**, a marine forecasting research project. My focus is on connecting data preparation, model evaluation, and clear communication in one workflow.
 
 ## Featured Projects
 
@@ -27,22 +27,6 @@ A consumer-complaint intelligence application built around public CFPB data. It 
 
 **Stack:** Python · DuckDB · pandas · scikit-learn · React · TypeScript  
 **[Explore the live demo](https://conductwatch.amazingmazin200.chatgpt.site)**
-
-### [AI Football Match Analyst](https://github.com/Eydo99/AI-Football-Match-Analyst)
-
-A team project completed during my NTI-ITIDA Machine Learning summer training. It uses StatsBomb event data for event classification, shot-level expected goals (xG), and match-level analysis through a Streamlit application.
-
-- My work focused on logistic regression for event classification and XGBoost for xG modeling.
-- Worked with preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
-- Explored how data leakage and class imbalance affect evaluation.
-
-**Stack:** Python · pandas · NumPy · scikit-learn · XGBoost · Streamlit
-
-### [Exam Scheduling with Graph Coloring](https://github.com/m10-as/computing-exam-time-table-using-networkx-and-coloring-algorithm-)
-
-An academic project that represents course conflicts as a graph and compares coloring algorithms for constructing exam timetables. It explores algorithm runtime and the number of exam periods required.
-
-**Stack:** Python · NetworkX · Jupyter
 
 ### [Regression and Classification Studies](https://github.com/m10-as/Machine-Learning)
 
